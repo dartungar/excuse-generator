@@ -1,2 +1,2 @@
-# excuse-generator
-An excuse generator.
+# excuses-generator
+Generate exuses with some help of GPT models.
